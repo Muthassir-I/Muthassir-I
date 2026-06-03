@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  🚀 Currently pursuing my <strong>3rd Year Undergraduate Degree in Computer Science</strong>. I specialize in building sleek, interactive web applications, crafting intuitive user experiences, and transforming raw data into meaningful insights.
+  🚀 Currently pursuing my <strong>3rd Year Undergraduate Degree in Computer Science</strong>. I specialize in building sleek, interactive web applications, crafting intuitive user experiences, and transforming raw data into meaningful insights. Check out my portfolio and agency at <a href="https://elevate-webworks.vercel.app/" target="_blank"><strong>Elevate Webworks</strong></a>!
 </p>
 
 <hr>
@@ -79,6 +79,9 @@ Beyond programming and database analysis, I love:
 Feel free to reach out to collaborate on exciting projects or just chat about tech:
 
 <p align="left">
+  <a href="https://elevate-webworks.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-C1E1C1?style=for-the-badge&logo=googlechrome&logoColor=1A202C" alt="Website" />
+  </a>
   <a href="https://www.linkedin.com/in/muthassir/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-A6C1EE?style=for-the-badge&logo=linkedin&logoColor=1A202C" alt="LinkedIn" />
   </a>
