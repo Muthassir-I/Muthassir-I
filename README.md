@@ -44,22 +44,22 @@ These panels dynamically update and adapt their theme depending on whether you a
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=1E1E24&title_color=F5EBE6&text_color=D4C5B9&icon_color=E8A7A1&border_color=2F2F38&hide_border=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=FDFAF6&title_color=4A3F35&text_color=5C5043&icon_color=D4A373&border_color=E8E1D5&hide_border=false">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=FDFAF6&title_color=4A3F35&text_color=5C5043&icon_color=D4A373&border_color=E8E1D5&hide_border=false">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Muthassir-I&show_icons=true&bg_color=1E1E24&title_color=F5EBE6&text_color=D4C5B9&icon_color=E8A7A1&border_color=2F2F38&hide_border=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Muthassir-I&show_icons=true&bg_color=FDFAF6&title_color=4A3F35&text_color=5C5043&icon_color=D4A373&border_color=E8E1D5&hide_border=false">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Muthassir-I&show_icons=true&bg_color=FDFAF6&title_color=4A3F35&text_color=5C5043&icon_color=D4A373&border_color=E8E1D5&hide_border=false">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=1E1E24&title_color=F5EBE6&text_color=D4C5B9&icon_color=E8A7A1&border_color=2F2F38&hide_border=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=FDFAF6&title_color=4A3F35&text_color=5C5043&icon_color=D4A373&border_color=E8E1D5&hide_border=false">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=FDFAF6&title_color=4A3F35&text_color=5C5043&icon_color=D4A373&border_color=E8E1D5&hide_border=false">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Muthassir-I&layout=compact&bg_color=1E1E24&title_color=F5EBE6&text_color=D4C5B9&icon_color=E8A7A1&border_color=2F2F38&hide_border=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Muthassir-I&layout=compact&bg_color=FDFAF6&title_color=4A3F35&text_color=5C5043&icon_color=D4A373&border_color=E8E1D5&hide_border=false">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muthassir-I&layout=compact&bg_color=FDFAF6&title_color=4A3F35&text_color=5C5043&icon_color=D4A373&border_color=E8E1D5&hide_border=false">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&background=1E1E24&border=2F2F38&stroke=2F2F38&ring=E8A7A1&fire=E8A7A1&currStreakNum=F5EBE6&currStreakLabel=D4C5B9&sideNums=F5EBE6&sideLabels=D4C5B9&dates=A89F91">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&background=FDFAF6&border=E8E1D5&stroke=E8E1D5&ring=D4A373&fire=D4A373&currStreakNum=4A3F35&currStreakLabel=5C5043&sideNums=4A3F35&sideLabels=5C5043&dates=8D99AE">
-    <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&background=FDFAF6&border=E8E1D5&stroke=E8E1D5&ring=D4A373&fire=D4A373&currStreakNum=4A3F35&currStreakLabel=5C5043&sideNums=4A3F35&sideLabels=5C5043&dates=8D99AE">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Muthassir-I&background=1E1E24&border=2F2F38&stroke=2F2F38&ring=E8A7A1&fire=E8A7A1&currStreakNum=F5EBE6&currStreakLabel=D4C5B9&sideNums=F5EBE6&sideLabels=D4C5B9&dates=A89F91">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Muthassir-I&background=FDFAF6&border=E8E1D5&stroke=E8E1D5&ring=D4A373&fire=D4A373&currStreakNum=4A3F35&currStreakLabel=5C5043&sideNums=4A3F35&sideLabels=5C5043&dates=8D99AE">
+    <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Muthassir-I&background=FDFAF6&border=E8E1D5&stroke=E8E1D5&ring=D4A373&fire=D4A373&currStreakNum=4A3F35&currStreakLabel=5C5043&sideNums=4A3F35&sideLabels=5C5043&dates=8D99AE">
   </picture>
 </p>
 
